@@ -3,7 +3,7 @@
 
 ![Project Screenshot](./Screenshot%202025-01-26%20at%207.05.33%20PM.png)
 
-## Project Overview
+## Project 
 This project is a modern, fully responsive calculator application built using **React** and **styled-components**. It supports keyboard input, allowing seamless user interaction, and features a clean, minimalist UI with a visually appealing gradient background. The calculator performs essential arithmetic operations, handles invalid inputs gracefully, and supports backspace functionality for better user experience.
 
 ## Features
